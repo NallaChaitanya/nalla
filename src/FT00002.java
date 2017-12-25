@@ -1,3 +1,3 @@
-class HelloWld{
+class Hld{
 
 }
